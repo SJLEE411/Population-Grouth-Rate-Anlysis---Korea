@@ -1,4 +1,4 @@
-# Population-Grouth-Rate-Anlysis---Korea
+# Population-Growth-Rate-Anlysis---Korea
 
 # Analyzing Population Trends in South Korea
 
